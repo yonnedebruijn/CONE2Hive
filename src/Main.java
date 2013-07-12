@@ -59,7 +59,7 @@ public class Main implements Runnable
                 // causes a refresh
                 gui.viewer.repaint();
 
-                // geef CPU wat tijd om te repainten
+                // geef CPU wat tijd om te repainten...
                 Thread.sleep(10);
 
 
